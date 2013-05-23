@@ -8,5 +8,9 @@ namespace DataAccessLibrary
 {
     public class Demo
     {
+        public Demo()
+        {
+
+        }
     }
 }
